@@ -57,10 +57,10 @@ Na parte superior da tela, deve conter um seletor de idiomas para alternar o idi
 pnpm i
 
 # incialize o servidor faker em outro terminal
-pnpm run server:fake
+pnpm server:fake
 
 # inicialize a aplicação
-pnpm run dev
+pnpm dev
 ```
 
 ## Documentação suporte
